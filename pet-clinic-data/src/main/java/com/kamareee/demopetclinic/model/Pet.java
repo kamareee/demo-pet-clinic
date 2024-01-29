@@ -1,7 +1,5 @@
 package com.kamareee.demopetclinic.model;
 
-import org.springframework.cglib.core.Local;
-
 import java.time.LocalDate;
 
 public class Pet {

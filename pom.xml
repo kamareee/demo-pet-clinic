@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <name>demo-pet-clinic</name>
     <description>Pet Clinic demo application for SFG course</description>
-    
+
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
